@@ -4,4 +4,5 @@
 ４　・git commit
 ５　・git rm
 ６　・git status
+７　・git diff
 
