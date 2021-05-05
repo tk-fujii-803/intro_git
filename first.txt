@@ -3,4 +3,5 @@
 ３　・git add
 ４　・git commit
 ５　・git rm
+６　・git status
 
